@@ -1,0 +1,21 @@
+C:\Users\drudnitskiy\source\repos\Отдельно\AES\AES\bin\Debug\AES.exe.config
+C:\Users\drudnitskiy\source\repos\Отдельно\AES\AES\bin\Debug\AES.exe
+C:\Users\drudnitskiy\source\repos\Отдельно\AES\AES\bin\Debug\AES.pdb
+C:\Users\drudnitskiy\source\repos\Отдельно\AES\AES\obj\Debug\AES.csprojAssemblyReference.cache
+C:\Users\drudnitskiy\source\repos\Отдельно\AES\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+C:\Users\drudnitskiy\source\repos\Отдельно\AES\AES\obj\Debug\AES.exe
+C:\Users\drudnitskiy\source\repos\Отдельно\AES\AES\obj\Debug\AES.pdb
+C:\Users\drudnitskiy\source\repos\TESTS\AES\AES\bin\Debug\AES.exe.config
+C:\Users\drudnitskiy\source\repos\TESTS\AES\AES\bin\Debug\AES.exe
+C:\Users\drudnitskiy\source\repos\TESTS\AES\AES\bin\Debug\AES.pdb
+C:\Users\drudnitskiy\source\repos\TESTS\AES\AES\obj\Debug\AES.csprojAssemblyReference.cache
+C:\Users\drudnitskiy\source\repos\TESTS\AES\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+C:\Users\drudnitskiy\source\repos\TESTS\AES\AES\obj\Debug\AES.exe
+C:\Users\drudnitskiy\source\repos\TESTS\AES\AES\obj\Debug\AES.pdb
+C:\Users\drudnitskiy\source\repos\TESTS\AES GSPCH\AES\bin\Debug\AES.exe.config
+C:\Users\drudnitskiy\source\repos\TESTS\AES GSPCH\AES\bin\Debug\AES.exe
+C:\Users\drudnitskiy\source\repos\TESTS\AES GSPCH\AES\bin\Debug\AES.pdb
+C:\Users\drudnitskiy\source\repos\TESTS\AES GSPCH\AES\obj\Debug\AES.csprojAssemblyReference.cache
+C:\Users\drudnitskiy\source\repos\TESTS\AES GSPCH\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+C:\Users\drudnitskiy\source\repos\TESTS\AES GSPCH\AES\obj\Debug\AES.exe
+C:\Users\drudnitskiy\source\repos\TESTS\AES GSPCH\AES\obj\Debug\AES.pdb
